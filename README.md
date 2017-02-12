@@ -12,4 +12,7 @@ Hosted on the nice nbviewer (Rackspace) people here:
 * - [Audiology Data Explorer
     Demo](http://nbviewer.jupyter.org/github/anandjeyahar/mlDemoExamples/blob/master/Audiology.ipynb)
 
+* - [Hepatitis Data Explorer
+    Demo](http://nbviewer.jupyter.org/github/anandjeyahar/mlDemoExamples/blob/master/Hepatitis.ipynb)
+
 * - [TPOT example for MNIST Digit Demo](http://nbviewer.jupyter.org/github/anandjeyahar/mlDemoExamples/blob/master/TPOT--MNIST.ipynb)
