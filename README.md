@@ -1,5 +1,5 @@
 # mlDemoExamples
-
+A Demo of the power of [datascienceutils](https://github.com/anandjeyahar/data-science-utils) a package for simplifying the exploratory data analysis step
 Hosted on the nice nbviewer (Rackspace) people here:
 
 * - [Diabetes data model](http://nbviewer.jupyter.org/github/anandjeyahar/mlDemoExamples/blob/master/Diabetes-Model.ipynb)
