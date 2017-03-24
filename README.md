@@ -9,6 +9,8 @@ Hosted on the nice nbviewer (Rackspace) people here:
 * - [Iris Data Explorer
     Demo](http://nbviewer.jupyter.org/github/anandjeyahar/mlDemoExamples/blob/master/IrisDataExplorer.ipynb)
 
+* - [Iris Data Regression Models Demo](http://nbviewer.jupyter.org/github/anandjeyahar/mlDemoExamples/blob/master/Iris_Regression_analyze.ipynb)
+
 * - [Audiology Data Explorer
     Demo](http://nbviewer.jupyter.org/github/anandjeyahar/mlDemoExamples/blob/master/Audiology.ipynb)
 
