@@ -20,3 +20,5 @@ Hosted on the nice nbviewer (Rackspace) people here:
 * - [TPOT example for MNIST Digit Demo](http://nbviewer.jupyter.org/github/anandjeyahar/mlDemoExamples/blob/master/TPOT--MNIST.ipynb)
 
 * - [Phone metadata](http://nbviewer.jupyter.org/github/anandjeyahar/mlDemoExamples/blob/master/phone_metadata.ipynb)
+
+* - [Clustering Demo](http://nbviewer.jupyter.org/github/anandjeyahar/mlDemoExamples/blob/master/Iris_Clustering_demo.ipynb)
