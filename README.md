@@ -22,3 +22,5 @@ Hosted on the nice nbviewer (Rackspace) people here:
 * - [Phone metadata](http://nbviewer.jupyter.org/github/anandjeyahar/mlDemoExamples/blob/master/phone_metadata.ipynb)
 
 * - [Clustering Demo](http://nbviewer.jupyter.org/github/anandjeyahar/mlDemoExamples/blob/master/Iris_Clustering_demo.ipynb)
+
+* - [1-d clustering data example ](https://github.com/anandjeyahar/mlDemoExamples/blob/master/tbxt_visuals.ipynb)
